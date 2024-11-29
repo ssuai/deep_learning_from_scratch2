@@ -4,6 +4,7 @@
 * [visualize_gradient.ipynb](visualize_gradient.ipynb)
 
 ### LSTM
+![From RNN to LSTM](fig/lstm_lm.png)
 * [rnnlm.py](rnnlm.py)
 * [train_rnnlm.py](train_rnnlm.py)
 
